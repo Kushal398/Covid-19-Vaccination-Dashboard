@@ -1,3 +1,11 @@
+
+
+https://github.com/user-attachments/assets/dac2b7d7-956c-44e5-ab83-92857157169d
+
+
+
+https://github.com/user-attachments/assets/1e8620a9-9d53-49ae-8b28-07fdcb6ece48
+
 Overview:
 This project is about analyzing and visualizing COVID-19 vaccine WHO data with Power BI. The dataset contains precise information on immunization rates, demographics, and trends, allowing for a better understanding of worldwide vaccination progress. 
 The primary purpose is to illustrate using Power BI to transform raw data into meaningful insights via interactive visualizations.
